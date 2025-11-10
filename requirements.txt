@@ -1,7 +1,6 @@
-streamlit
-pandas
-altair
-python-dotenv
-pillow
-openpyxl
-sqlite3-binary
+streamlit==1.32.2
+pandas==2.2.2
+altair==5.2.0
+python-dotenv==1.0.1
+pillow==10.3.0
+openpyxl==3.1.2
