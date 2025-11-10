@@ -1,0 +1,7 @@
+streamlit
+pandas
+altair
+python-dotenv
+pillow
+openpyxl
+sqlite3-binary
